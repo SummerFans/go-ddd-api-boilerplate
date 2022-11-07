@@ -1,0 +1,6 @@
+.vscode
+logs
+__debug_bin
+.DS_Store
+bin
+run.sh
